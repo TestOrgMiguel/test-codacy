@@ -1,2 +1,2 @@
 # test-codacy
-A testing repository for Codacy
+A repository for testing Codacy.
