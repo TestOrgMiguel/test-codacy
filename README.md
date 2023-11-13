@@ -1,4 +1,2 @@
 # test-codacy
-A testing repository for Codacy.
-
-ssss
+jkhgh
