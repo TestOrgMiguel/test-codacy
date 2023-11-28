@@ -2,3 +2,5 @@
 A repository used to test branch and PR updates on Codacy.
 
 Ola
+
+Adeus
